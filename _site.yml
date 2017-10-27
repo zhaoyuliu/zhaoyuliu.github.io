@@ -1,0 +1,15 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Article"
+      href: article.html
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<zl2638@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/zhaoyuliu
+output:
+  html_document

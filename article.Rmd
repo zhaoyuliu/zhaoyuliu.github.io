@@ -1,0 +1,5 @@
+---
+title: "Article"
+---
+
+Huang, F; Hou, J.; **Liu Z.**; Zhang, L.; Tang H.; Wang, H.; Zhang, Q.; Liu, J.; Cao, G. Impacts of surface or interface chemistry of ZnSe passivation layer on the performance of CdS/CdSe quantum dot sensitized solar cells. **Nano Energy, 2017, 32, 433-440**.
